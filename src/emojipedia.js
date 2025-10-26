@@ -21,21 +21,21 @@ const emojipedia = [
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
   },
    {
-    id: 3,
+    id: 4,
     emoji: "😃",
     name: "Smiling Face With Open Mouth",
     meaning:
       "The grinning face and big eyes emoji symbolizes positive vibes, happy laughter and enthusiasm."
   },
   {
-    id: 3,
+    id: 5,
     emoji: "😇",
     name: "Smiling Face With Halo",
     meaning:
       "A heavenly smile is shown by the halo emoji, which symbolizes innocence and goodness. "
   },
   {
-    id: 3,
+    id: 6,
     emoji: "🙃",
     name: "Upside-Down Face",
     meaning:
