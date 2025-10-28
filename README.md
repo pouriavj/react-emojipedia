@@ -15,7 +15,7 @@ A simple React project that dynamically renders a list of emojis with their titl
 
 ## 🖼️ Demo
 <p align="center">
-  <img src="emojipedia.jpg" alt="React Emojipedia App Screenshot" width="600" />
+  <img src="emojipedia.jpg" alt="React Emojipedia App Screenshot" />
 </p>
 
 ---
