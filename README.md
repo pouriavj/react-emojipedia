@@ -3,7 +3,7 @@
 ![React](https://img.shields.io/badge/React-19-blue?logo=react)
 ![ES6](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
 ![Status](https://img.shields.io/badge/Stage-Development-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 
 A simple React project that dynamically renders a list of emojis with their titles and meanings using reusable components, **props**, and the **map()** function.
