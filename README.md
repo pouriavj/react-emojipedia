@@ -81,3 +81,32 @@ A simple React project that dynamically renders a list of emojis with their titl
 
    ```
 4. Open `http://localhost:5173` in your browser.
+
+---
+
+## 🧾 Usage
+
+- The app displays a collection of emojis from `emojipedia.js`.  
+- Each entry shows:
+  - Emoji symbol  
+  - Emoji name (title)  
+  - Description or meaning  
+- To add a new emoji:
+  1. Open `emojipedia.js`  
+  2. Add a new object to the array:
+     ```js
+     {
+       id: 7,
+       emoji: "🤩",
+       name: "Star-Struck",
+       meaning: "Represents amazement, admiration, or excitement."
+     }
+     ```
+  3. Save and refresh — your new emoji appears automatically! 🎉
+
+---
+
+## 📜 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
