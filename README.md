@@ -104,9 +104,4 @@ A simple React project that dynamically renders a list of emojis with their titl
      ```
   3. Save and refresh — your new emoji appears automatically! 🎉
 
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
