@@ -69,3 +69,15 @@ A simple React project that dynamically renders a list of emojis with their titl
    ```bash
    git clone https://github.com/pouriavj/react-emojipedia.git
    cd react-emojipedia
+   ```
+2. **Install dependencies**
+   ```bash
+   npm install
+
+   ```
+3. **Run the development server**
+   ```bash
+   npm run dev
+
+   ```
+4. Open `http://localhost:5173` in your browser.
