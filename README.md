@@ -24,7 +24,7 @@ A simple React project that dynamically renders a list of emojis with their titl
 
 - [Features](#-features)
 - [Project Structure](#-project-structure)
-- [Technologies Used](#-technologies-used)
+- [Technologies Used](#technologies-used)
 - [Getting Started](#-getting-started)
 - [Usage](#-usage)
 
